@@ -1,5 +1,6 @@
-### Welcome to my GitHub profile 👋
+### GitHub Profile Banner
 
-- 🔭 I’m currently working on my homelab, algotrading, and robotics.
-- 👯 I’m looking to collaborate on anything!
-- ⚡ Fun fact: I use Arch btw
+- I have lots of projects
+- Any problem can be "solved" with robots
+- I use Arch btw
+- bottomtext
