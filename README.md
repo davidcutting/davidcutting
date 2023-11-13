@@ -1,6 +1,1 @@
-### GitHub Profile Banner
-
-- I have lots of projects
-- Any problem can be "solved" with robots
-- I use Arch btw
-- bottomtext
+I'm trying to solve all of the world's problems using robots.
